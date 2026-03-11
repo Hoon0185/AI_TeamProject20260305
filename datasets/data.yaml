@@ -1,0 +1,6 @@
+path: C:/Code/PythonProject/datasets
+train: images/train
+val: images/train  # 임시가 아닌 실제 val 경로로 수정
+
+nc: 4
+names: ['e_stop', 'left', 'right', 'stop']
